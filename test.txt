@@ -5,3 +5,5 @@ rmdir .git
 
 
 git clone https://github.com/thousifa1/node_practice.git
+
+see the log files 

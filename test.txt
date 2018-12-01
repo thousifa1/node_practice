@@ -1,0 +1,7 @@
+remove git from windows :
+
+del /F/S/Q/A .git
+rmdir .git
+
+
+git clone https://github.com/thousifa1/node_practice.git
